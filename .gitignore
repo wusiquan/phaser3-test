@@ -1,0 +1,5 @@
+.DS_Store
+phaser-ce
+node_modules
+dist
+
