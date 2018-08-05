@@ -14,12 +14,13 @@
     "@babel/preset-env": "^7.0.0-beta.49",
     "babel-loader": "^8.0.0-beta.3",
     "copy-webpack-plugin": "^4.5.2",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^4.0.0-alpha",
     "webpack": "^4.16.4",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
+    
     "phaser": "^3.11.0"
   }
 }
