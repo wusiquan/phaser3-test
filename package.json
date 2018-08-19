@@ -10,17 +10,16 @@
   "author": "wusiquan",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.0.0-beta.49",
-    "@babel/preset-env": "^7.0.0-beta.49",
-    "babel-loader": "^8.0.0-beta.3",
+    "@babel/core": "^7.0.0-rc.1",
+    "@babel/preset-env": "^7.0.0-rc.1",
+    "babel-loader": "^8.0.0-beta.4",
     "copy-webpack-plugin": "^4.5.2",
     "html-webpack-plugin": "^4.0.0-alpha",
-    "webpack": "^4.16.4",
+    "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.4"
+    "webpack-dev-server": "^3.1.5"
   },
   "dependencies": {
-    
-    "phaser": "^3.11.0"
+    "phaser": "^3.12.0-beta2"
   }
 }

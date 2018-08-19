@@ -35,7 +35,7 @@ class GameScene extends Phaser.Scene {
       down: cursors.down,
       speed: 0.5
     })
-
+    
     // Constrain the camera so that it isn't allowed to move outside the width/height of tilemap
     camera.setBounds(0, 0, map.widthInPixels, map.heightInPixels)
 
